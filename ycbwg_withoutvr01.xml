@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0.6" apprev="17336" start="node1">
+  <panorama id="node2">
+    <input levelingroll="0" levelbias="0.400" leveltilesize="510" height="1500" width="1500" levelbiashidpi="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="2" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="60.7"/>
+      <max pan="360" fovstereographic="270" scaletofit="1" tilt="90" fov="87.8" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" tags="压缩图" longitude="" title="" datetime="2017/4/27 上午9:33" source="" comment="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" textalpha="1" height="20" textcolor="0xffffff" width="180" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="0" enabled="1" background="0" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.392157" backgroundcolor="0xc80000" borderalpha="1" bordercolor="0xffc9c3"/>
+      <hotspot id="Point01" pan="-108.47" url="{node1}" description="" title="" tilt="-20.17" target="" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-12.54" url="images/1.jpg" description="" title="" tilt="-2.41" target="" skinid="Hotspot_Picture"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" pan="-156.590" tiltsize="10.000" field="90.000" loop="0" pansize="10.000" mode="1" tilt="-8.590" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0">
+        <source url="media/w_bg5.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" zoomoutpause="1" enabled="1" type="crossdissolve" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" hideabout="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" levelbias="0.400" leveltilesize="510" height="1500" width="1500" levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="2" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="30.7"/>
+      <max pan="360" fovstereographic="270" scaletofit="1" tilt="90" fov="81.9" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" tags="压缩图" longitude="" title="" datetime="2017/3/8 下午1:41" source="" comment="" copyright="" info="" latitude="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" textalpha="1" height="20" textcolor="0xffffff" width="180" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="0" enabled="1" background="0" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.392157" backgroundcolor="0xc80000" borderalpha="1" bordercolor="0xffc9c3"/>
+      <hotspot id="Point01" pan="-169.8" url="{node2}" description="" title="" tilt="-8.4" target="" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-298.52" url="images/61.jpg" description="" title="" tilt="-14.23" target="" skinid="ht_pic"/>
+      <polyhotspot id="Poly01" url="" description="" title="天安门" target="_blank">
+        <polystring>-294.69/5.75|-301.65/6.01|-306.27/2.19|-306.18/0.82|-291.16/0.72|-291.17/2.79|-291.25/2.88</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" description="" title="海河解放桥" target="_blank">
+        <polystring>-280.69/-4.68|-293.73/-4.61|-293.65/-7.57|-280.62/-7.57</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" description="" title="长城" target="_blank">
+        <polystring>-275.47/7.79|-288.08/8.06|-287.96/3.24|-275.19/3.05</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" description="" title="山海关" target="_blank">
+        <polystring>-271.91/2.97|-279.24/3.06|-278.88/-1.48|-271.56/-1.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" description="" title="赵州桥" target="_blank">
+        <polystring>-271.5/-1.34|-282.02/-1.65|-281.99/-3.99|-271.47/-3.66</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" description="" title="布达拉宫" target="_blank">
+        <polystring>-187.29/-3.17|-202.64/-3.19|-202.39/-11.6|-187.31/-11.24</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" description="" title="耗牛" target="_blank">
+        <polystring>-191.68/1.58|-202.55/1.5|-202.53/-2.66|-191.47/-2.46</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" description="" title="新疆天池" target="_blank">
+        <polystring>-187.34/9.77|-198.47/9.69|-198.67/2.57|-187.42/2.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" description="" title="莫高窟（甘肃）" target="_blank">
+        <polystring>-203.24/9.88|-202.65/-0.42|-208.37/0.1|-208.21/9.95</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" description="" title="" target="_blank">
+        <polystring>-203.18/-0.27|-203.21/1.36|-203.21/1.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" description="" title="蒙古包" target="_blank">
+        <polystring>-209.09/9.82|-208.76/2.7|-222.07/2.43|-221.68/9.91</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" description="" title="雾凇" target="_blank">
+        <polystring>-212.37/1.74|-222.53/1.41|-223.39/-4.54|-211.94/-3.37</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" description="" title="西夏王陵（宁夏）" target="_blank">
+        <polystring>-203.11/-3.64|-202.86/-11.6|-218.81/-11.82|-217.28/-4.17</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" description="" title="索菲亚教堂" target="_blank">
+        <polystring>-222.53/9.88|-222.84/1.05|-228.55/0.74|-227.68/9.92</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" description="" title="镜泊湖" target="_blank">
+        <polystring>-223.43/0.39|-234.62/0.43|-235.07/-3.62|-223.51/-3.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" description="" title="鸭绿江大桥" target="_blank">
+        <polystring>-218.96/-11.59|-218.87/-4.76|-233.47/-4.86|-234.46/-12</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" description="" title="沈阳故宫八角亭" target="_blank">
+        <polystring>-234.11/-3.57|-239.42/-2.82|-240/-11.85|-234.58/-11.91</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly18" url="" description="" title="延安宝塔山" target="_blank">
+        <polystring>-229.2/9.98|-229.26/2.69|-239.6/2.71|-239.55/10.14</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly19" url="" description="" title="壶口瀑布（陕西）" target="_blank">
+        <polystring>-237.26/2.2|-244.99/2.1|-245.13/-1.38|-237.49/-1.55</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly20" url="" description="" title="乐山大佛" target="_blank">
+        <polystring>-240/-1.7|-248.18/-1.44|-248.4/-11.88|-240.23/-11.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly21" url="" description="" title="朝天门码头" target="_blank">
+        <polystring>-248.96/-5.54|-248.92/-11.71|-260.74/-11.7|-260.52/-4.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly22" url="" description="" title="大槐树（山西）" target="_blank">
+        <polystring>-248.41/10.37|-254.3/10.37|-254.68/0.46|-248.34/0.48</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly23" url="" description="" title="黄鹤楼" target="_blank">
+        <polystring>-256.29/6.55|-260.88/6.42|-260.9/0.86|-256.03/0.74</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly24" url="" description="" title="三门峡" target="_blank">
+        <polystring>-255.01/-0.9|-256.37/-2.03|-260.6/-0.59|-259.55/0.86</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly25" url="" description="" title="岱庙坊" target="_blank">
+        <polystring>-261.98/3.92|-267.39/3.8|-267.65/-1.94|-262/-2.12</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly26" url="" description="" title="壶口瀑布（山西）" target="_blank">
+        <polystring>-261.05/-4.22|-270.08/-4.19|-270.43/-9.02|-260.97/-9.48</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly27" url="" description="" title="玉皇顶" target="_blank">
+        <polystring>-267.21/7.65|-272.78/7.68|-273.14/4.55|-267.61/4.09</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly28" url="" description="" title="东方明珠电视塔/金茂大厦" target="_blank">
+        <polystring>-307.48/3.31|-308.49/5.27|-316.59/0.68|-316.63/-1.15|-305.42/-2.09</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly29" url="" description="" title="西湖" target="_blank">
+        <polystring>-310.63/-3.43|-323.77/-3.3|-323.75/-9.17|-310.37/-9.62</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly30" url="" description="" title="中山陵" target="_blank">
+        <polystring>-318.04/3.23|-323.49/3.17|-323.73/-0.6|-318.41/-0.42</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly31" url="" description="" title="紫金山天文台" target="_blank">
+        <polystring>-312.72/8.16|-322.49/7.88|-323.77/3.42|-314.59/3.78</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly32" url="" description="" title="黄山迎客松" target="_blank">
+        <polystring>-324.62/6.13|-332.49/5.99|-332.67/-1.34|-324.58/-1.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly33" url="" description="" title="鼓浪屿" target="_blank">
+        <polystring>-329.57/-2.65|-344.01/-2.61|-344.92/-9.67|-329.8/-10.18</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly34" url="" description="" title="五老峰" target="_blank">
+        <polystring>-333.28/8.32|-343.98/7.9|-344.28/3.36|-333.48/3.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly35" url="" description="" title="井冈山" target="_blank">
+        <polystring>-340.28/3.29|-344.3/3.17|-344.58/-1.08|-340.27/-1.03</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly36" url="" description="" title="黄果树瀑布" target="_blank">
+        <polystring>-345.77/-5.53|-354.9/-5.51|-353.7/8.61|-344.77/9.21</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly37" url="" description="" title="岳阳楼" target="_blank">
+        <polystring>-355.27/8.3|-3.58/9|-3.12/-0.54|-354.82/-0.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly38" url="" description="" title="象鼻山" target="_blank">
+        <polystring>-357.65/-2.04|-6.4/-1.58|-6.36/-7.12|-357.57/-7.82</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly39" url="" description="" title="石林" target="_blank">
+        <polystring>-5.39/8.23|-16.13/8.49|-16.41/1.25|-4.59/0.87</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly40" url="" description="" title="天涯海角" target="_blank">
+        <polystring>-8.93/-1.67|-8.87/-9.1|-17.44/-8.74|-16.9/0.35</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly41" url="" description="" title="大三巴" target="_blank">
+        <polystring>-17.78/0.84|-22.09/0.97|-22.3/-4.15|-17.72/-4.44</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly42" url="" description="" title="羊城" target="_blank">
+        <polystring>-20.05/8.76|-24.23/8.92|-24.67/2.35|-19.97/2.22</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly43" url="" description="" title="春秋阁" target="_blank">
+        <polystring>-24.87/5.8|-30.64/6.05|-30.91/0.14|-24.59/-0.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly44" url="" description="" title="维多利亚港" target="_blank">
+        <polystring>-22.87/-2.56|-33.19/-2.42|-33.24/-6.27|-21.34/-6.58</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" pan="-149.930" tiltsize="10.000" field="90.000" loop="0" pansize="10.000" mode="1" tilt="-10.850" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0">
+        <source url="media/w_bg4.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" zoomoutpause="1" enabled="1" type="crossdissolve" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" hideabout="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" tags="" longitude="" title="" datetime="" source="" comment="" copyright="" info="" latitude="" customnodeid=""/>
+  </masternode>
+</tour>

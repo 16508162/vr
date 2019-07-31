@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig rev="15996" version="5.2.4">
+  <tour>
+    <start>node1</start>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>/Users/dollylee/Downloads/QQ接收文件/VR导览-烟草博物馆/序厅/压缩图/pano_05_12000X6000.jpg</filename>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan>
+          <start>2</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>70</start>
+          <minunit>degrees</minunit>
+          <min>60.7</min>
+          <max>87.8</max>
+          <maxfovstereographic>270</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
+        <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+      </viewingparameter>
+      <userdata>
+        <datetime>2017/4/27 上午9:33</datetime>
+        <tags>压缩图</tags>
+        <altitude>-10000</altitude>
+        <customnodeid>pano_05</customnodeid>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-108.47</pan>
+            <tilt>-20.17</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node1}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-12.54</pan>
+            <tilt>-2.41</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>捐赠名单</title>
+          <linktype>image</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>../ycbwg_demo素材/hotpoint_pic/1.jpg</url>
+          <skinid>Hotspot_Picture</skinid>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-156.59</pan>
+            <tilt>-8.59</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>Element01</id>
+          <filename>../ycbwg_demo素材/sound/w_bg5.mp3</filename>
+          <mode>1</mode>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <level>1</level>
+          <loop>0</loop>
+          <external>1</external>
+          <copyfile>1</copyfile>
+        </sound>
+      </sounds>
+      <id>node2</id>
+    </panorama>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>/Users/dollylee/Downloads/QQ接收文件/VR导览-烟草博物馆/序厅/压缩图/pano_04_12000X6000.jpg</filename>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+        <leveltimestamp>2019-07-28T20:33:24</leveltimestamp>
+      </input>
+      <viewingparameter>
+        <pan>
+          <start>2</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>70</start>
+          <minunit>degrees</minunit>
+          <min>30.7</min>
+          <max>81.9</max>
+          <maxfovstereographic>270</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
+        <pannorth>-233.794</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2019-07-28T20:33:49</defaultviewtimestamp>
+      </viewingparameter>
+      <userdata>
+        <datetime>2017/3/8 下午1:41</datetime>
+        <tags>压缩图</tags>
+        <altitude>-10000</altitude>
+        <customnodeid>pano_04</customnodeid>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-169.8</pan>
+            <tilt>-8.4</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-149.93</pan>
+            <tilt>-10.85</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>Element01</id>
+          <filename>../ycbwg_demo素材/sound/w_bg4.mp3</filename>
+          <mode>1</mode>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <level>1</level>
+          <loop>0</loop>
+          <external>1</external>
+          <copyfile>1</copyfile>
+        </sound>
+      </sounds>
+      <id>node1</id>
+    </panorama>
+  </tour>
+  <panorama>
+    <id>master</id>
+    <floorplans/>
+    <output>
+      <htmlcss>
+        <html>
+          <enabled>1</enabled>
+          <filename>ycbwg_vr01.html</filename>
+          <template>cardboard.ggt</template>
+          <values>
+            <value id="gyronorth">false</value>
+            <value id="jsxml">false</value>
+            <value id="parseanchor">true</value>
+            <value id="smooth">true</value>
+            <value id="stereo">false</value>
+            <value id="touchicon"/>
+          </values>
+        </html>
+        <facequality/>
+        <transition>
+          <enabled>1</enabled>
+        </transition>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition>
+          <enabled>0</enabled>
+        </flyintransition>
+        <hotspottext/>
+        <hotspotstyle/>
+        <tilesize>1500</tilesize>
+        <filename>ycbwg_vr01.xml</filename>
+        <skinfile>skin_user01.ggsk</skinfile>
+        <skinoutfilename>skin_ycbwg_vr01.js</skinoutfilename>
+      </htmlcss>
+      <htmlcss>
+        <html>
+          <enabled>1</enabled>
+          <filename>output/withoutvr01.html</filename>
+          <template>normal.ggt</template>
+          <values>
+            <value id="css"/>
+            <value id="gginfo">false</value>
+            <value id="gyro">false</value>
+            <value id="gyrodisable">false</value>
+            <value id="gyronorth">false</value>
+            <value id="gyroroll">false</value>
+            <value id="gyrosmooth">true</value>
+            <value id="jsxml">false</value>
+            <value id="parseanchor">true</value>
+            <value id="swf"/>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+          </values>
+        </html>
+        <facequality/>
+        <transition/>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition/>
+        <hotspottext/>
+        <hotspotstyle/>
+        <tilesize>1500</tilesize>
+        <filename>output/withoutvr01.xml</filename>
+        <skinfile>skin_user01.ggsk</skinfile>
+        <skinoutfilename>skin_withoutvr01.js</skinoutfilename>
+      </htmlcss>
+      <htmlcss>
+        <html>
+          <values>
+            <value id="css"/>
+            <value id="gginfo">false</value>
+            <value id="gyro">false</value>
+            <value id="gyrodisable">false</value>
+            <value id="gyronorth">false</value>
+            <value id="gyroroll">false</value>
+            <value id="gyrosmooth">true</value>
+            <value id="jsxml">false</value>
+            <value id="parseanchor">false</value>
+            <value id="swf"/>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+          </values>
+          <enabled>1</enabled>
+          <filename>output-1/index.html</filename>
+        </html>
+        <facequality/>
+        <transition/>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition/>
+        <hotspottext/>
+        <hotspotstyle/>
+        <tilesize>1500</tilesize>
+        <filename>output-1/pano.xml</filename>
+      </htmlcss>
+    </output>
+    <streetview/>
+    <streetviewproject/>
+    <input>
+      <patch/>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata/>
+    <hotspots/>
+    <sounds/>
+    <animation>
+      <sequence/>
+      <title>Animation01</title>
+    </animation>
+  </panorama>
+</pano2vrconfig>
