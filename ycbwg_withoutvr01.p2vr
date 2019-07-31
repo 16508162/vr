@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.0.6" rev="17336">
+<pano2vrconfig rev="17336" version="6.0.6">
   <tour>
     <start>node1</start>
     <panorama>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>../pano_05_12000X6000.jpg</filename>
+        <filename>images/pano_05_12000X6000.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -117,7 +117,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>../pano_04_12000X6000.jpg</filename>
+        <filename>images/pano_04_12000X6000.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
         <leveltimestamp>2019-07-28T20:33:24</leveltimestamp>
@@ -1068,16 +1068,15 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>ycbwg_vr01.html</filename>
-          <template>cardboard.ggt</template>
+          <filename>ycbwg_withoutvr01.html</filename>
+          <template>normal.ggt</template>
           <values>
-            <value id="gyronorth">false</value>
+            <value id="css"></value>
+            <value id="gginfo">false</value>
+            <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
+            <value id="nocssfont">false</value>
             <value id="parseanchor">false</value>
-            <value id="staretarget">5</value>
-            <value id="staretimeout">2000</value>
-            <value id="stereo">false</value>
-            <value id="touchicon"></value>
           </values>
         </html>
         <facequality/>
@@ -1101,12 +1100,12 @@
           <bordercolor>#ffc9c3</bordercolor>
         </hotspotstyle>
         <tilesize>1500</tilesize>
-        <filename>ycbwg_vr01.xml</filename>
+        <filename>ycbwg_withoutvr01.xml</filename>
         <skinfile>$d/images/skin_user01.ggsk</skinfile>
         <levelswitchbiashidpi>0.4</levelswitchbiashidpi>
         <fullscreencontext>0</fullscreencontext>
         <preview>grayscale</preview>
-        <skinoutfilename>ycbwg_vr01.js</skinoutfilename>
+        <skinoutfilename>ycbwg_withoutvr01.js</skinoutfilename>
       </htmlcss>
     </output>
     <streetview/>
